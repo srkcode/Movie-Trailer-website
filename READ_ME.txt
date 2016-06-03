@@ -10,5 +10,5 @@ file names -- media.py
 3) Before Downloading and Runing this program every one should have python installed in there systems and all the files should me in one folder 
      ---- https://www.python.org/downloads/windows/
 
-4) If you need and assistance you can contact me chintapalli.sriram@gmail.com.
+4) If you need any assistance you can contact me masterchintapalli@gmail.com.
 
